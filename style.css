@@ -1,0 +1,14 @@
+.container > div {
+  border: 1px solid #000000;
+  background-color: #8a2be2;
+  color: #fff;
+  font-size: 20px;
+    }
+
+    .container{
+display: grid;
+grid-template-columns: 100px 150px;
+grid-template-rows: 200px 300px;
+    }
+
+   
